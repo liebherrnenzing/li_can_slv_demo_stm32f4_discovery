@@ -1,0 +1,4 @@
+li_can_slv_api.c:61:18:lcsa_init	16	static
+li_can_slv_api.c:101:18:lcsa_start	16	static
+li_can_slv_api.c:137:18:lcsa_add_module	48	static
+li_can_slv_api.c:143:12:lcsa_get_baudrate	16	static

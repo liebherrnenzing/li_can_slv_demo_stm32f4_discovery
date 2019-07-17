@@ -1,0 +1,6 @@
+io_app_demo_hw.c:85:6:app_main	16	static
+io_app_demo_hw.c:101:18:app_init	16	static
+io_app_demo_hw.c:182:18:app_start	4	static
+io_app_demo_hw.c:187:6:app_process_5msec	8	static
+io_app_demo_hw.c:234:13:first_process_req_callback	4	static
+io_app_demo_hw.c:241:13:process_req_whole_image_ok_callback	4	static

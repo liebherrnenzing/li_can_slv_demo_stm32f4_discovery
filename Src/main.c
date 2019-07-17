@@ -23,7 +23,7 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+#include "io_app_demo_hw.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -95,6 +95,7 @@ int main(void)
   MX_CAN1_Init();
   MX_CAN2_Init();
   /* USER CODE BEGIN 2 */
+  app_main();
 
   /* USER CODE END 2 */
 

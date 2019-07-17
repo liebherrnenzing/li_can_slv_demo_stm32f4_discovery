@@ -1,8 +1,0 @@
-io_can.c:115:24:li_can_slv_init	40	static
-io_can.c:421:24:li_can_slv_deinit	8	static
-io_can.c:434:24:can_transceiver_disable	8	static
-io_can.c:466:24:li_can_slv_process	8	static
-io_can.c:504:6:li_can_slv_set_mode	16	static
-io_can.c:509:19:li_can_slv_get_mode	4	static
-io_can.c:514:6:lcsa_set_state	16	static
-io_can.c:519:14:lcsa_get_state	4	static

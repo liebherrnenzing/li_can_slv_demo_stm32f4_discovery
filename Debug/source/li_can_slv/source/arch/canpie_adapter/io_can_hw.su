@@ -1,4 +1,0 @@
-io_can_hw.c:61:24:can_hw_init	4	static
-io_can_hw.c:66:24:can_hw_transceiver_enable	4	static
-io_can_hw.c:71:24:can_hw_transceiver_disable	4	static
-io_can_hw.c:84:24:can_hw_combine_msg_obj_to_two_stage_fifo	16	static

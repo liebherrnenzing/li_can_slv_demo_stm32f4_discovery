@@ -1,3 +1,0 @@
-io_can_main_hw_handler.c:117:9:can_main_hw_handler_rx	40	static
-io_can_main_hw_handler.c:176:9:can_main_hw_handler_tx	40	static
-io_can_main_hw_handler.c:212:9:can_main_hw_handler_error	16	static

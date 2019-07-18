@@ -45,8 +45,8 @@ extern "C" {
  * @name MA_W Module
  */
 /** @{ */
-//#define APP_MA_W
-//#define APP_MA_W_SIM
+#define APP_MA_W
+#define APP_MA_W_SIM
 /** @} */
 
 

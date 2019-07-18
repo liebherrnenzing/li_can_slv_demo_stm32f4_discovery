@@ -1,11 +1,11 @@
 ## Example for STM32F4 Discovery Board
 
-This is a basic example which shows how to use the li_can_slv stack on a NUCLEOF103RB board. The example was developed for a custom in-house baseboard but it can also be used on a normal NUCLEOF103RB board. As you can see in the project folder we have used CubeMX to generate the basic hardware layer.
+This is a basic example which shows how to use the li_can_slv stack on a F4 Discovery board. As you can see in the project folder we have used CubeMX to generate the basic sw layer.
 
 ### Hardware needed 
 
-*   NucleoF103RB Development Board
-*	A CAN Bus Break-out Board like tihis one http://copperhilltech.com/can-bus-breakout-board-5-vdc. Following pins are used for CAN.
+*   STM32F4 Discovery Board
+*	A CAN Bus Break-out Board like this one http://copperhilltech.com/can-bus-breakout-board-5-vdc. Following pins are used for CAN.
 
 	| Pin | Name   |
 	|-----|:------:|
